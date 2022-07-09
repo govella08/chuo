@@ -1,0 +1,49 @@
+[
+{
+    "service_code": "NW",
+    "service_name_en": "New Connection",
+    "service_name_sw": "Maunganisho Mapya",
+    "account": false
+},
+{
+    "service_code": "WTH",
+    "service_name_en": "Water Theft",
+    "service_name_sw": "Wizi wa Maji",
+    "account": false
+},
+{
+    "service_code": "LW",
+    "service_name_en": "Lack of Water",
+    "service_name_sw": "Ukosefu Maji",
+    "account": false
+},
+{
+    "service_code": "WL",
+    "service_name_en": "Water Leakage",
+    "service_name_sw": "Uvujaji wa Maji",
+    "account": false
+},
+{
+    "service_code": "MP",
+    "service_name_en": "Meter Problem",
+    "service_name_sw": "Tatizo la Mita",
+    "account": true
+},
+{
+    "service_code": "SL",
+    "service_name_en": "Sewage Leakage",
+    "service_name_sw": "Uvujaji wa Maji Taka",
+    "account": false
+},
+{
+    "service_code": "WQ",
+    "service_name_en": "Water Quality",
+    "service_name_sw": "Ubora wa Maji",
+    "account": false
+},
+{
+    "service_code": "RO",
+    "service_name_en": "Request Other",
+    "service_name_sw": "Mengineyo",
+    "account": false
+}]
